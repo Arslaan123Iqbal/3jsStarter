@@ -1,0 +1,19 @@
+{
+  "name": "3jsstarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.8.3"
+  }
+}
